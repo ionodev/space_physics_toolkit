@@ -1,0 +1,5 @@
+*.mat
+irradiance_X*.txt
+irradiance_*_data.txt
+__pycache__/
+*.pyc
