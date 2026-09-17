@@ -1,11 +1,11 @@
-# Space Physics Scripts
+# Space Physics Toolkit
 
 A collection of atmosphere/ionosphere/magnetosphere physics scripts, one
 folder per topic. Each folder holds the final version of that script — earlier
 drafts and dead ends were left out of this repo.
 
 (HEIMDALL radar/riometer analysis lives in its own repo:
-[heimdall-radar-analysis](../heimdall-radar-analysis).)
+[heimdall_analysis](../heimdall_analysis).)
 
 ## Layout
 
